@@ -27,6 +27,7 @@ A curated list of awesome tech movies
 <a href="biography"></a>
 ## Biography and Documentaries about people
 - The Internet's Own Boy: The Story of Aaron Swartz
+- Pirates of Silicon Valley
 
 <a href="stevejobs"></a>
 ### Steve Jobs
